@@ -42,5 +42,8 @@
     "directories": {},
     "dependencies": {},
     "devDependencies": {}
+  },
+  "dependencies": {
+    "acorn": "^7.1.0"
   }
 }
